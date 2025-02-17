@@ -9,7 +9,7 @@
 
 * 💻 Love technologies and learning new things.
 
-* 📱 I'm Mobile Developer;
+* 🗄️ I'm Backend Developer;
 
 * 🤖 As a challenge lover, I'm venturing into the Artificial Intelligence world;
 

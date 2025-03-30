@@ -33,5 +33,7 @@ I'm Laura Saraiva ✋
 
 #### 📬 Let’s Connect!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/laura-saraiva-9109a11b3)
+🌐 [Kaggle](https://www.kaggle.com/laurasaraiva)
+
+🌐 [LinkedIn](https://www.linkedin.com/in/laura-saraiva-9109a11b3)
 
